@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Danny/Desktop/CSE504 project/TikalPhase2_Copy/TikalPhase2_Copy/lib/xpp3_min-1.1.4c.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Danny/Desktop/CSE504 project/TikalPhase2_Copy/TikalPhase2_Copy/lib/xstream-1.3.1.jar" sourcepath=""/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Danny/Desktop/CSE504 project/TikalPhase2_Copy/TikalPhase2_Copy/lib/xstream-benchmark-1.3.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
