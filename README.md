@@ -1,2 +1,2 @@
 # TiKal
-Tikal table game
+Tikal table game Version 1
