@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 public class FieldMouseListener extends MouseAdapter{
 	
 
-	JPanel _playfield_pa_a_b_c_d_e_F_E;
+	JPanel _playfield_pa_a_b_c_d_e_F_E_100;
 	TileData[][] _table;
 	TileData[] _newone;
 	TileFigure[][] _fitable;
