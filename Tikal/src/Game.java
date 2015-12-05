@@ -6,7 +6,7 @@ import java.util.Random;
 public class Game {
 	
 	//public final static String[] args;
-	TileData[][] field;
+	TileData[][] field_AAAAA;
 	Player[] playerlist;
 	GUI _gui;
 	int _numofExplorers;
