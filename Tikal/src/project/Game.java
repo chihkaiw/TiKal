@@ -1,15 +1,8 @@
-package gitproject;
+package project;
 
 import java.util.ArrayList;
 import java.util.Random;
-import java.util.ArrayList;
-import java.util.Random;
-import java.util.ArrayList;
-import java.util.Random;
-import java.util.ArrayList;
-import java.util.Random;
-import java.util.ArrayList;
-import java.util.Random;
+
 
 public class Game {
 	

@@ -1,4 +1,4 @@
-package gitproject;
+package project;
 
 import javax.swing.JLabel;
 

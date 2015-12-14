@@ -1,4 +1,4 @@
-package gitproject;
+package project;
 
 public class Player {
 	public String _Name;

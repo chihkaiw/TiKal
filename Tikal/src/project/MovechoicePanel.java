@@ -1,4 +1,4 @@
-package gitproject;
+package project;
 
 import java.awt.GridLayout;
 
