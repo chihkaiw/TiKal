@@ -12,6 +12,38 @@ import javax.swing.JPanel;
 
 public class FieldMouseListener extends MouseAdapter{
 	
+<<<<<<< HEAD
+=======
+Tikal/src/project/FieldMouseListener.java
+/*
+ * abc I will action action 
+ * YES
+ * This will be updated
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ * o
+ */
+>>>>>>> a7fc014... cherry-pick practice
 
 	JPanel _playfield_panel;
 	TileData[][] _table;
