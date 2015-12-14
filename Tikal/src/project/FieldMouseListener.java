@@ -13,15 +13,15 @@ import javax.swing.JPanel;
 public class FieldMouseListener extends MouseAdapter{
 	
 
-	JPanel _playfield_panel;
-	TileData[][] _table;
-	TileData[] _newone;
-	TileFigure[][] _fitable;
-	TileFigure _newonefigure;
-	TopPanelTilte _text;
-	TileData _firsttile;
-	boolean[] _puttile;
-	JLabel _informationlsit;
+	JPanel _playfield_panel_playfield_panel;
+	TileData[][] _table_table;
+	TileData[] _newone_newone;
+	TileFigure[][] _fitable_fitable;
+	TileFigure _newonefigure_newonefigure;
+	TopPanelTilte _text_text;
+	TileData _firsttile_firsttile;
+	boolean[] _puttile_puttile;
+	JLabel _informationlsit_informationlsit;
 	int _x=-1,_y=-1;
 	//MovechoicePanel _choicepath;
 	Player[] _playerlist;
